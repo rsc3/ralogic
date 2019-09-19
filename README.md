@@ -9,6 +9,10 @@ pip3 install encodermap
 ## smoke test: MNest
 1. stock images implemented in tensorflow
 
+## high level questions
+*. utility of combining activators and repressors
+
+
 # activation functions
 tanh, relu. sigmoid, leaky relu, softmax, softplus
 1. understand functions
