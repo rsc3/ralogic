@@ -19,6 +19,8 @@ tanh, relu. sigmoid, leaky relu, softmax, softplus
 
 # further reading
 [Activation Functions](https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e)
+
 [Tsetlin Machines](https://arxiv.org/abs/1804.01508)
+
 [Tensorflow Playground](https://playground.tensorflow.org/)
 
