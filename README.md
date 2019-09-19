@@ -5,6 +5,9 @@ Start porting RAL to Pytorch/Tensorflow/MXNet, probably Pytorch. MVP would be ni
 conda install tensorflow matplotlib scipy  
 pip3 install encodermap
 
+## smoke test: MNest
+1. stock images implemented in tensorflow
+
 # activation functions
 tanh, relu. sigmoid, leaky relu, softmax, softplus
 1. understand functions
