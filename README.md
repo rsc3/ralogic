@@ -24,5 +24,5 @@ tanh, relu. sigmoid, leaky relu, softmax, softplus
 
 [Tensorflow Playground](https://playground.tensorflow.org/)
 
-[The Textbook](https://arxiv.org/abs/1804.01508)
+[The Nielsen Textbook](https://arxiv.org/abs/1804.01508)
 
