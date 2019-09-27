@@ -31,3 +31,5 @@ tanh, relu. sigmoid, leaky relu, softmax, softplus
 [The Nielsen Textbook](https://arxiv.org/abs/1804.01508)
 
 [Autoencoders Explained](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368)
+
+[Encodermap](https://github.com/AG-Peter/encodermap)
